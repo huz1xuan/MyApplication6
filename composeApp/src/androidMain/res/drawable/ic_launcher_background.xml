@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 深蓝渐变背景 -->
+    <path
+        android:pathData="M0,0h108v108h-108z"
+        android:fillColor="#0D47A1"/>
+        
+    <!-- 中心径向渐变 -->
+    <circle
+        android:fillColor="#1976D2"
+        android:fillAlpha="0.4"
+        cx="54"
+        cy="54"
+        r="45"/>
+        
+    <!-- 游戏主题装饰圆环 -->
+    <circle
+        android:fillColor="#2196F3"
+        android:fillAlpha="0.3"
+        cx="54"
+        cy="54"
+        r="35"/>
+    <circle
+        android:fillColor="#42A5F5"
+        android:fillAlpha="0.2"
+        cx="54"
+        cy="54"
+        r="25"/>
+        
+    <!-- 四角装饰按钮 -->
+    <circle
+        android:fillColor="#4CAF50"
+        android:fillAlpha="0.3"
+        cx="25"
+        cy="25"
+        r="6"/>
+    <circle
+        android:fillColor="#F44336"
+        android:fillAlpha="0.3"
+        cx="83"
+        cy="25"
+        r="6"/>
+    <circle
+        android:fillColor="#FF9800"
+        android:fillAlpha="0.3"
+        cx="25"
+        cy="83"
+        r="6"/>
+    <circle
+        android:fillColor="#9C27B0"
+        android:fillAlpha="0.3"
+        cx="83"
+        cy="83"
+        r="6"/>
+</vector>

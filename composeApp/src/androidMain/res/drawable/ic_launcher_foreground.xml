@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 游戏手柄整体形状 -->
+    <path android:fillColor="#2196F3"
+          android:pathData="M20,50 h68 a10,10 0 0,1 10,10 v5 a10,10 0 0,1 -10,10 h-68 a10,10 0 0,1 -10,-10 v-5 a10,10 0 0,1 10,-10 z"/>
+    
+    <!-- 左侧握把 -->
+    <path android:fillColor="#1976D2"
+          android:pathData="M25,70 h10 a5,5 0 0,1 5,5 v10 a5,5 0 0,1 -5,5 h-10 a5,5 0 0,1 -5,-5 v-10 a5,5 0 0,1 5,-5 z"/>
+    
+    <!-- 右侧握把 -->
+    <path android:fillColor="#1976D2"
+          android:pathData="M73,70 h10 a5,5 0 0,1 5,5 v10 a5,5 0 0,1 -5,5 h-10 a5,5 0 0,1 -5,-5 v-10 a5,5 0 0,1 5,-5 z"/>
+    
+    <!-- 左侧方向键圆形背景 -->
+    <path android:fillColor="#37474F"
+          android:pathData="M30,55 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0"/>
+    
+    <!-- 方向键十字 -->
+    <path android:fillColor="#FFFFFF"
+          android:pathData="M36,57 h4 v6 h-4 z M34,59 h8 v2 h-8 z"/>
+    
+    <!-- 右侧按钮 Y (上) -->
+    <path android:fillColor="#4CAF50"
+          android:pathData="M66,52 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"/>
+    
+    <!-- 右侧按钮 A (下) -->
+    <path android:fillColor="#F44336"
+          android:pathData="M66,64 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"/>
+    
+    <!-- 右侧按钮 X (左) -->
+    <path android:fillColor="#2196F3"
+          android:pathData="M58,58 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"/>
+    
+    <!-- 右侧按钮 B (右) -->
+    <path android:fillColor="#FF9800"
+          android:pathData="M74,58 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"/>
+    
+    <!-- 中央装饰点 -->
+    <path android:fillColor="#FFC107"
+          android:pathData="M51,58 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"/>
+    
+    <!-- 肩键 -->
+    <path android:fillColor="#455A64"
+          android:pathData="M30,45 h10 v3 h-10 z M68,45 h10 v3 h-10 z"/>
+</vector> 
